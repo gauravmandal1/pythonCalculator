@@ -4,3 +4,4 @@ def add():
 
 # Call the add function to perform the addition and print the result
 add()
+print(5+6)
